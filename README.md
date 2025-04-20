@@ -1,5 +1,5 @@
 ### PoseEstimation
-
+<br><br>
 This repo is desiged to detect the pose and specific body parts from the video
 """The 33 pose landmarks."""
   NOSE = 0
@@ -35,6 +35,6 @@ This repo is desiged to detect the pose and specific body parts from the video
   RIGHT_HEEL = 30
   LEFT_FOOT_INDEX = 31
   RIGHT_FOOT_INDEX = 32
-
+<br><br>
 
 <b>Create a db folder 'testData' and place all mp4 files in it</b>
